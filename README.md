@@ -24,6 +24,9 @@
 <code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jamstack.svg" /></code>
+<code><img height="32" width="32" src="https://jamstack.org/img/logo/solid/Jamstack_Icon_Original_Solid.png" /></code>
+<code><img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUxSL8iuH0Hd4XsGTHxKpHJXkDqM-WkKDKg&usqp=CAU" /></code>
+<code><img height="32" width="32" src="https://camo.githubusercontent.com/6b761aea33692df37a806708e9d88b7dfe526bac683ae80cf8a609c8850634d4/68747470733a2f2f646264622e696f2f6d656469612f6c6f676f732f4661756e615f4c6f676f5f626c75652e706e67" /></code>
 <br />
 <br />
 

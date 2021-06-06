@@ -27,7 +27,7 @@
 <br />
 
 ---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hhzule)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hhzule&show_icons=true&theme=radical)
 
 
 

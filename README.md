@@ -1,4 +1,5 @@
-### Hi there, I'm Zule Huma 👋
+
+  ### Hi there, I'm Zule Huma 👋
 
 
 <br />
@@ -28,6 +29,3 @@
 
 ---
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hhzule&show_icons=true&theme=radical)
-
-
-

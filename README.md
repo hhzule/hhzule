@@ -28,6 +28,11 @@
 <br />
 
 ---
+&layout=compact)
+
+![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhzule&layout=compact)
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hhzule&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhzule)

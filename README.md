@@ -3,7 +3,7 @@
   
   ### Hi there, I'm Zule Huma 👋
   
-   I am a self-taught full-stack developer with a passion for crafting cutting-edge web applications,with expertise in Next.js, AWS Cloud, blockchain,     Leaflet, Tailwind, and content management systems (CMS), I bring a diverse skill set to every project. From creating performant server-side rendered web  apps with Next.js to building secure and scalable applications with AWS Cloud, integrating blockchain technology for decentralized data management,
+   I am a developer with a passion for crafting cutting-edge web applications,with expertise in Next.js, AWS Cloud, blockchain, Leaflet, Tailwind, and content management systems (CMS), I bring a diverse skill set to every project. From creating performant server-side rendered web  apps with Next.js to building secure and scalable applications with AWS Cloud, integrating blockchain technology for decentralized data management,
  creating interactive maps with Leaflet, and designing visually appealing user interfaces with Tailwind CSS, I'm well-equipped to deliver exceptional results. My dedication to continuous learning and staying up-to-date with the latest industry advancements allows me to push the boundaries of what's possible on the web.
 <br />
 - 💬 Ask me about anything [here](https://github.com/hhzule/hhzule/issues)

@@ -25,6 +25,7 @@ Cloud & Databases:
 <code><img height="32" alt="aws" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-PNG-HD-Quality.png" title="AWS"></code>
 <code><img height="36" alt="mongoDB" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" title="MongoDB"></code>
 <code><img height="36" alt="firebase" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" title="Firebase"></code>
+<code><img height="32" alt="docker" src="images/docker.svg"></code>
 
 Blockchain & Web3:
 <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" width="32" height="32" alt="Solidity Logo"></code>
@@ -34,7 +35,7 @@ Blockchain & Web3:
 <code><img height="32" alt="hardhat" src="images/hardhat.svg"></code>
 <code><img height="32" alt="solana" src="images/solana.svg"></code>
 <code><img height="32" alt="rust" src="images/rust.svg"></code>
-<code><img height="32" alt="docker" src="images/docker.svg"></code>
+
 
 Testing:
 <code><img height="32" alt="mocha" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign.png" /></code>

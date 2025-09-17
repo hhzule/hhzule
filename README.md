@@ -31,15 +31,15 @@ Blockchain & Web3:
 <code><img height="32" alt="etherjs" src="images/ethers.svg"></code>
 <code><img height="32" alt="web3js" src="images/web3js.svg"></code>
 <code><img height="32" alt="moralis" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg"></code>
-<code><img height="32" alt="hardhat" src="https://raw.githubusercontent.com/NomicFoundation/hardhat-site/main/src/assets/logo.png"></code>
-<code><img height="32" alt="solana" src="https://solana.com/branding/new/exchange/exchange-sq.svg"></code>
-<code><img height="32" alt="rust" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg
-"></code>
+<code><img height="32" alt="hardhat" src="images/hardhat.svg"></code>
+<code><img height="32" alt="solana" src="images/solana.svg"></code>
+<code><img height="32" alt="rust" src="images/rust.svg"></code>
+<code><img height="32" alt="docker" src="images/docker.svg"></code>
 
 Testing:
 <code><img height="32" alt="mocha" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign.png" /></code>
 <code><img height="32" alt="chaii" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" /></code>
-<code><img height="32" alt="jest" src="https://miro.medium.com/v2/resize:fit:300/1*veOyRtKTPeoqC_VlWNUc5Q.png" /></code>
+<code><img height="32" alt="jest" src="images/jest.svg" /></code>
 
 
 ---

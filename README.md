@@ -38,7 +38,7 @@ Blockchain & Web3:
 
 Testing:
 <code><img height="32" alt="mocha" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign.png" /></code>
-<code><img height="32" alt="chaii" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" /></code>
+<code><img height="32" alt="chaii" src="images/chaii.svg" /></code>
 <code><img height="32" alt="jest" src="images/jest.svg" /></code>
 
 

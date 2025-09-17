@@ -19,6 +19,7 @@ Frontend & Backend:
 <code><img height="32" alt="nextjs" src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" title="Next.js"/></code>
 <code><img height="32" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
 <code><img height="32" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" title="GraphQL"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" width="32" height="32" alt="Solidity Logo"></code>
 
 Cloud & Databases:
 <code><img height="32" alt="aws" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-PNG-HD-Quality.png" title="AWS"></code>

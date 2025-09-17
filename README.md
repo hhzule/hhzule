@@ -28,7 +28,7 @@ Cloud & Databases:
 
 Blockchain & Web3:
 <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" width="32" height="32" alt="Solidity Logo"></code>
-<code><img height="32" alt="etherjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethers/ethers.png"></code>
+<code><img height="32" alt="etherjs" src="https://simpleicons.org/?modal=icon&q=ethers"></code>
 <code><img height="32" alt="web3js" src="https://web3js.readthedocs.io/en/v1.10.0/_static/web3js.jpg"></code>
 <code><img height="32" alt="moralis" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg"></code>
 <code><img height="32" alt="hardhat" src="https://raw.githubusercontent.com/NomicFoundation/hardhat-site/main/src/assets/logo.png"></code>

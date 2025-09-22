@@ -3,7 +3,7 @@
   
   ### Hi there, I'm Zule 👋
   
-A passionate Full-Stack Developer specializing in building high-performance, scalable web applications. I leverage modern technologies like Next.js, AWS, and Blockchain to create seamless and innovative user experiences, from concept to deployment.
+A passionate Full-Stack Blockchain and Cloud Developer specializing in building high-performance, scalable web2/web3 applications. I leverage modern technologies like Next.js, AWS, and Blockchain to create seamless and innovative user experiences, from concept to deployment.
 <br />
 - 💬 Ask me about anything [here](https://github.com/hhzule/hhzule/issues)
 
